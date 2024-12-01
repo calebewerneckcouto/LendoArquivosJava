@@ -7,6 +7,9 @@ import java.io.IOException;
 public class Program {
 
     public static void main(String[] args) {
+    	
+    	
+    	//BufferdReader e Reader
         
         String path = "C:\\Users\\WINDOWS 11\\Desktop\\test.txt";
 
